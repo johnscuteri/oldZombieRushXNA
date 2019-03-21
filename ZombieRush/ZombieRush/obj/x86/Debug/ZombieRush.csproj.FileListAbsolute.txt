@@ -1,0 +1,18 @@
+E:\devel\C#\ZombieRush\ZombieRush\ZombieRush\bin\x86\Debug\Content\Sprites\brains.xnb
+E:\devel\C#\ZombieRush\ZombieRush\ZombieRush\bin\x86\Debug\Content\Sprites\Cannon1.xnb
+E:\devel\C#\ZombieRush\ZombieRush\ZombieRush\bin\x86\Debug\Content\Sprites\cannonballs.xnb
+E:\devel\C#\ZombieRush\ZombieRush\ZombieRush\bin\x86\Debug\Content\Sprites\GameBackground.xnb
+E:\devel\C#\ZombieRush\ZombieRush\ZombieRush\bin\x86\Debug\Content\Sprites\goodbad.xnb
+E:\devel\C#\ZombieRush\ZombieRush\ZombieRush\bin\x86\Debug\Content\Sprites\zombie.xnb
+E:\devel\C#\ZombieRush\ZombieRush\ZombieRush\bin\x86\Debug\Content\Sprites\zombieKnight.xnb
+E:\devel\C#\ZombieRush\ZombieRush\ZombieRush\bin\x86\Debug\Content\score.xnb
+E:\devel\C#\ZombieRush\ZombieRush\ZombieRush\bin\x86\Debug\ZombieRush.exe
+E:\devel\C#\ZombieRush\ZombieRush\ZombieRush\bin\x86\Debug\ZombieRush.pdb
+E:\devel\C#\ZombieRush\ZombieRush\ZombieRush\obj\x86\Debug\ZombieRush.csprojResolveAssemblyReference.cache
+E:\devel\C#\ZombieRush\ZombieRush\ZombieRush\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\devel\C#\ZombieRush\ZombieRush\ZombieRush\obj\x86\Debug\ZombieRush.exe
+E:\devel\C#\ZombieRush\ZombieRush\ZombieRush\obj\x86\Debug\ZombieRush.pdb
+E:\devel\C#\ZombieRush\ZombieRush\ZombieRush\bin\x86\Debug\Content\Sprites\Cannon2.xnb
+E:\devel\C#\ZombieRush\ZombieRush\ZombieRush\bin\x86\Debug\Content\Wave Bank.xwb
+E:\devel\C#\ZombieRush\ZombieRush\ZombieRush\bin\x86\Debug\Content\Sound Bank.xsb
+E:\devel\C#\ZombieRush\ZombieRush\ZombieRush\bin\x86\Debug\Content\Sounds.xgs

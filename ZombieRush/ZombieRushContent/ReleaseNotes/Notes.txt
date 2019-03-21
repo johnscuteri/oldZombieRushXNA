@@ -1,0 +1,6 @@
+Needs
+
+Randomize start locations of enemies.
+Randomize start time of enemies.
+set up scoring system.
+set up collision for projectile and zombie. line 314

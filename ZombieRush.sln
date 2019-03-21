@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieRush", "ZombieRush\ZombieRush\ZombieRush.csproj", "{7683D34B-8E8D-4905-B9F3-A5C007EC5E1B}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ZombieRushContent", "ZombieRush\ZombieRushContent\ZombieRushContent.contentproj", "{CBEF9590-205E-47AC-A803-0C014F71FA8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7683D34B-8E8D-4905-B9F3-A5C007EC5E1B}.Debug|x86.ActiveCfg = Debug|x86
+		{7683D34B-8E8D-4905-B9F3-A5C007EC5E1B}.Debug|x86.Build.0 = Debug|x86
+		{7683D34B-8E8D-4905-B9F3-A5C007EC5E1B}.Release|x86.ActiveCfg = Release|x86
+		{7683D34B-8E8D-4905-B9F3-A5C007EC5E1B}.Release|x86.Build.0 = Release|x86
+		{CBEF9590-205E-47AC-A803-0C014F71FA8F}.Debug|x86.ActiveCfg = Debug|x86
+		{CBEF9590-205E-47AC-A803-0C014F71FA8F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

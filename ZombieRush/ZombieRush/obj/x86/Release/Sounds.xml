@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="My Wave">Wave Bank
+{
+    Name = My Wave;
+    Xbox File = Xbox\My Wave.xwb;
+    Windows File = Win\My Wave.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 151583540;
+    Bank Last Revised High = 30295268;
+
+    Wave
+    {
+        Name = grunt;
+        File = grunt.wav;
+        Build Settings Last Modified Low = 93650226;
+        Build Settings Last Modified High = 30295268;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 62844;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2850384896;
+            Last Modified High = 30290649;
+        }
+    }
+
+    Wave
+    {
+        Name = ThemeOne;
+        File = ThemeOne.wav;
+        Build Settings Last Modified Low = 93660227;
+        Build Settings Last Modified High = 30295268;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 7773696;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3932085504;
+            Last Modified High = 30290701;
+        }
+    }
+
+    Wave
+    {
+        Name = wahoo;
+        File = wahoo.wav;
+        Build Settings Last Modified Low = 93660227;
+        Build Settings Last Modified High = 30295268;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 110592;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2990384896;
+            Last Modified High = 30290649;
+        }
+    }
+
+    Wave
+    {
+        Name = womp;
+        File = womp.wav;
+        Build Settings Last Modified Low = 93670228;
+        Build Settings Last Modified High = 30295268;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 233472;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3130384896;
+            Last Modified High = 30290649;
+        }
+    }
+
+    Wave
+    {
+        Name = womp2;
+        File = womp2.wav;
+        Build Settings Last Modified Low = 93670228;
+        Build Settings Last Modified High = 30295268;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 205256;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3070384896;
+            Last Modified High = 30290649;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>
